@@ -1,4 +1,4 @@
-# CPU_Scheduler(It was supposed to be submitted within 3 months, but it wasn't uploaded to GitHub at that time because the deadline had already passed)
+# CPU_Scheduler(It was supposed to be submitted before 3 months, but it wasn't uploaded to GitHub at that time because the deadline had already passed)
 Implementation of Various CPU Scheduling algorithms like FCFS, SJF, Priority Pre-emptive, Round-Robin using C++ and Comparing their performance by various statistics .
 
 #Installation 
